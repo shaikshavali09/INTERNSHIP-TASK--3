@@ -31,3 +31,5 @@ The results of Neural Style Transfer are visually impressive. A simple photograp
 Applications of this technology are wide-ranging: digital art creation, content generation for social media, advertising design, and even personalized photography filters. NST also has potential in education and entertainment, allowing students and creators to explore artistic techniques without requiring traditional skills in painting or drawing.
 
 In conclusion, the Neural Style Transfer model is a brilliant showcase of how AI can merge creativity with computational techniques. By applying deep learning and convolutional neural networks, this project successfully generates stylized images that combine the structure of one photograph with the unique artistic flair of another. The implementation provides both educational value in understanding CNNs and practical utility in generating unique artistic content, highlighting the innovative capabilities of AI in modern digital art.
+
+<img width="288" height="216" alt="Image" src="https://github.com/user-attachments/assets/eba95116-639f-4fd7-a697-dd573173a714" />
